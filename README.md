@@ -1,4 +1,4 @@
-# SpotCheck Data Set
+# SpotCheck files
 
 Sourcecode, trained models and dataset for the paper:
 
